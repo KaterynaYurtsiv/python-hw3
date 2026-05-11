@@ -1,4 +1,4 @@
-# Python Homework 3 – Docker
+# Python Homework3 – Docker
 
 ## Description
 This project is a Dockerized console application.
